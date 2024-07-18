@@ -518,7 +518,7 @@
               "params": {
                 "Region": "eu-west-2",
                 "UseFIPS": false,
-                "UseDualStack": true
+                "UseDualStack": false
               }
             },
             {
