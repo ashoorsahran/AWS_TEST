@@ -1084,7 +1084,7 @@
         "TLS": {
           "target": "smithy.api#Unit",
           "traits": {
-            "smithy.api#enumValue": "TESTMARKERORIGINALLYTLS"
+            "smithy.api#enumValue": "TESTMARKERORIGINALLYTLS2"
           }
         }
       }
