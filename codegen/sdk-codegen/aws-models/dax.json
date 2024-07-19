@@ -2440,7 +2440,7 @@
         "TRUE": {
           "target": "smithy.api#Unit",
           "traits": {
-            "smithy.api#enumValue": "TRUE"
+            "smithy.api#enumValue": "FALSE"
           }
         },
         "FALSE": {
