@@ -1141,7 +1141,7 @@
         "target": "com.amazonaws.dax#CreateClusterRequest"
       },
       "output": {
-        "target": "com.amazonaws.dax#CreateClusterResponse"
+        "target": "MARKERcom.amazonaws.dax#CreateClusterResponse"
       },
       "errors": [
         {
