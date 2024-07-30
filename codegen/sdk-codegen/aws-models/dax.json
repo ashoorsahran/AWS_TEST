@@ -1207,7 +1207,7 @@
         "NodeType": {
           "target": "com.amazonaws.dax#String",
           "traits": {
-            "smithy.api#documentation": "<p>MARKERThe compute and memory capacity of the nodes in the cluster.</p>",
+            "smithy.api#documentation": "<p>The compute and memory capacity of the nodes in the cluster.</p>",
             "smithy.api#required": {}
           }
         },
@@ -1228,7 +1228,7 @@
         "AvailabilityZones": {
           "target": "com.amazonaws.dax#AvailabilityZoneList",
           "traits": {
-            "smithy.api#documentation": "<p>MARKERThe Availability Zones (AZs) in which the cluster nodes will reside after the cluster\n         has been created or updated. If provided, the length of this list must equal the <code>ReplicationFactor</code> parameter.\n         If you omit this parameter, DAX will spread the nodes across Availability Zones for the highest availability.</p>"
+            "smithy.api#documentation": "<p>The Availability Zones (AZs) in which the cluster nodes will reside after the cluster\n         has been created or updated. If provided, the length of this list must equal the <code>ReplicationFactor</code> parameter.\n         If you omit this parameter, DAX will spread the nodes across Availability Zones for the highest availability.</p>"
           }
         },
         "SubnetGroupName": {
