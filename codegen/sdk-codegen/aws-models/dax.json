@@ -1283,7 +1283,7 @@
         "ClusterEndpointEncryptionType": {
           "target": "com.amazonaws.dax#ClusterEndpointEncryptionType",
           "traits": {
-            "smithy.api#documentation": "<p>MARKERThe type of encryption the cluster's endpoint should support. Values are:</p>\n        <ul>\n            <li>\n                <p>\n                  <code>NONE</code> for no encryption</p>\n            </li>\n            <li>\n                <p>\n                  <code>TLS</code> for Transport Layer Security</p>\n            </li>\n         </ul>"
+            "smithy.api#documentation": "<p>The type of encryption the cluster's endpoint should support. Values are:</p>\n        <ul>\n            <li>\n                <p>\n                  <code>NONE</code> for no encryption</p>\n            </li>\n            <li>\n                <p>\n                  <code>TLS</code> for Transport Layer Security</p>\n            </li>\n         </ul>"
           }
         }
       },
