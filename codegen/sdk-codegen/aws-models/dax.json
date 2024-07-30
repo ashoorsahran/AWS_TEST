@@ -1207,7 +1207,7 @@
         "NodeType": {
           "target": "com.amazonaws.dax#String",
           "traits": {
-            "smithy.api#documentation": "<p>The compute and memory capacity of the nodes in the cluster.</p>",
+            "smithy.api#documentation": "<p>MARKERThe compute and memory capacity of the nodes in the cluster.</p>",
             "smithy.api#required": {}
           }
         },
